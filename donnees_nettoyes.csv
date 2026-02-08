@@ -1,0 +1,6 @@
+lead_id,date,channel,device,company_size,sector,region,status,campaign_id,cost,impressions,clicks,conversions
+101,2025-09-01,Emailing,Mobile,1-10,Tech,IdF,MQL,CAMP01,1200,50000,1500,120
+102,2025-09-02,Facebook Ads,Desktop,10-50,Retail,Hauts-de-France,SQL,CAMP02,3000,90000,2200,180
+103,2025-09-03,LinkedIn,Mobile,50-100,Finance,PAC,Client,CAMP03,2500,40000,900,75
+104,2025-09-04,Emailing,Tablet,1-10,Health,ARA,MQL,CAMP01,1200,50000,1500,120
+105,2025-09-05,Instagram Ads,Mobile,100-500,Education,IdF,Client,CAMP04,1800,70000,2600,210
